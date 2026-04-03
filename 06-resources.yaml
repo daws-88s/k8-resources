@@ -11,7 +11,6 @@ spec:
       requests:
         memory: "64Mi" # RAM
         cpu: "100m" # CPU
-
       # hard limit
       limits:
         memory: "128Mi" # RAM
